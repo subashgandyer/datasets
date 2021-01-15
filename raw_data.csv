@@ -1,0 +1,11 @@
+Country,Age,Salary,Married
+Canada,45,100000,Yes
+USA,26,45000,No
+Denmark,67,,Yes
+Germany,30,54000,No
+France,32,60000,No
+India,45,360000,Yes
+USA,,250000,Yes
+Canada,40,120000,No
+India,40,20000,Yes
+France,50,83000,Yes
